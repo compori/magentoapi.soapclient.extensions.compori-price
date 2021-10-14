@@ -348,3 +348,14 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# VS Code
+.vscode/
+
+# cake build related files and directories
+tools/**
+!tools/packages.config
+output
+
+# Ignore batch files
+*.ignore.cmd
