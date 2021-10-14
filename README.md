@@ -1,0 +1,1 @@
+# magentoapi.soapclient.extensions.compori-price
